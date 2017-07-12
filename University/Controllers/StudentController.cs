@@ -11,7 +11,7 @@ using University.Models;
 
 namespace University.Controllers
 {
-    public class StudentsController : Controller
+    public class StudentController : Controller
     {
         private SchoolContext db = new SchoolContext();
 
