@@ -55,3 +55,9 @@ c:\projects\University\University\bin\EntityFramework.dll
 c:\projects\University\University\bin\EntityFramework.SqlServer.dll
 c:\projects\University\University\bin\EntityFramework.xml
 c:\projects\University\University\bin\EntityFramework.SqlServer.xml
+C:\projects\University\University\bin\PagedList.dll
+C:\projects\University\University\bin\PagedList.Mvc.dll
+C:\projects\University\University\bin\PagedList.xml
+C:\projects\University\University\bin\PagedList.Mvc.xml
+c:\projects\University\University\obj\Debug\University.Migrations.InitialMigration.resources
+c:\projects\University\University\obj\Debug\University.csproj.GenerateResource.Cache
