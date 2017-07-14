@@ -175,6 +175,14 @@
     <Compile Include="Migrations\201707131852158_InitialMigration.Designer.cs">
       <DependentUpon>201707131852158_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201707141819565_seed.cs" />
+    <Compile Include="Migrations\201707141819565_seed.Designer.cs">
+      <DependentUpon>201707141819565_seed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201707141858224_studentUpdates.cs" />
+    <Compile Include="Migrations\201707141858224_studentUpdates.Designer.cs">
+      <DependentUpon>201707141858224_studentUpdates.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Enrollment.cs" />
@@ -244,6 +252,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201707131852158_InitialMigration.resx">
       <DependentUpon>201707131852158_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707141819565_seed.resx">
+      <DependentUpon>201707141819565_seed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707141858224_studentUpdates.resx">
+      <DependentUpon>201707141858224_studentUpdates.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
