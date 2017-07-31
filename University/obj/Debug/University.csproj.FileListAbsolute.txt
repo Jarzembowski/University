@@ -63,3 +63,4 @@ c:\projects\University\University\obj\Debug\University.Migrations.InitialMigrati
 c:\projects\University\University\obj\Debug\University.csproj.GenerateResource.Cache
 c:\projects\University\University\obj\Debug\University.Migrations.seed.resources
 c:\projects\University\University\obj\Debug\University.Migrations.studentUpdates.resources
+c:\projects\University\University\obj\Debug\University.Migrations.StudantChanges.resources
